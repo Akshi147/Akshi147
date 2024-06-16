@@ -6,6 +6,10 @@ _A Computer Science Undergraduate from Thapar University_
 
 📧 **Contact:** [itsaashi2004@gmail.com](mailto:itsaashi2004@gmail.com) | [amittal1_be22@thapar.edu](mailto:amittal1_be22@thapar.edu)
 
+
+<img align="right" alt="coding gif" width="300" src="https://static.vecteezy.com/system/resources/previews/000/242/488/non_2x/vector-female-developer.jpg" />
+
+
 ---
 
 ### Connect with me:
