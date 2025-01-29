@@ -73,6 +73,9 @@ _A Computer Science Undergraduate from Thapar University_
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> 
     </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" /> 
+    </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> 
     </a> 
